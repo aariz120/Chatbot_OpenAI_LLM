@@ -29,6 +29,14 @@ https://docs.aiogram.dev/en/latest/
 
 # How to run the code
 
+## STEP 01- Create a conda environment after opening the repository
+'''
+conda create -n mybot1 python=3.8 -y
+
+conda activate mybot1
+''''
+
+
 Clone this repository or download the zip file
 
 Create a virtual environment and activate it
