@@ -92,5 +92,5 @@ async def chatgpt(message: types.Message):
 
 
 if __name__ == "__main__":
-    executor.start_polling(dispatcher, skip_updates=False)
+    executor.start_polling(dispatcher, skip_updates=True)
 
