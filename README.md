@@ -52,7 +52,7 @@ TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ''''
 
 
-Run python src/my_bot.py to start the bot
+Run python my_bot.py to start the bot
 
 Open Telegram and search for your bot username
 
